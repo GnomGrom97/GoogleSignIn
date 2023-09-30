@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "982124448415",
+    "project_id": "elegant-theorem-380309",
+    "storage_bucket": "elegant-theorem-380309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982124448415:android:1791d877089372d4c970aa",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982124448415-qkdp6c75dvo1hapmi5viqiipnnbuum5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin",
+            "certificate_hash": "7acd541476b15c8d2f0c2c8b2adefbe9d0ffff47"
+          }
+        },
+        {
+          "client_id": "982124448415-e4cgv9kujqfvv8hfnldrsbt656m9a1ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb58sypczNHOtLhfHvO3zXCb-yHimd6Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982124448415-e4cgv9kujqfvv8hfnldrsbt656m9a1ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982124448415:android:2769562232d2a31ac970aa",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninactivityjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982124448415-m39emapkhi5nndkff8mrckv98ai560h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesigninactivityjava",
+            "certificate_hash": "7acd541476b15c8d2f0c2c8b2adefbe9d0ffff47"
+          }
+        },
+        {
+          "client_id": "982124448415-e4cgv9kujqfvv8hfnldrsbt656m9a1ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb58sypczNHOtLhfHvO3zXCb-yHimd6Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982124448415-e4cgv9kujqfvv8hfnldrsbt656m9a1ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
